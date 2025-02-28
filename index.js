@@ -1,0 +1,1 @@
+console.log("usar no terminal node + o arquivo correspondnete")
