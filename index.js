@@ -1,1 +1,6 @@
-console.log("usar no terminal node + o arquivo correspondnete")
+const arrays = require('./arrays')
+const arrays_objetos  =  require('./array_objetos')
+
+
+arrays()
+arrays_objetos()
